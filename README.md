@@ -1,3 +1,3 @@
-# tasky-appln
+# tasky-application 
 
-project day 1 => initial setup
+--> How to creat,delete and change/update the task using html and js
